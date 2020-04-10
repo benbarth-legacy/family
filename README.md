@@ -3,7 +3,7 @@
 ![](https://media.giphy.com/media/WOIGpnJ3ye445BUQl4/giphy-downsized.gif)
 
 ### Q: Hey! What am I doing here?
-A: Self-isolation is more fun together! _Seperately._
+A: Self-isolation is more fun together! _Separately._
 
 ### Q: What's in store for this evening?
 A: A virtual games night!
