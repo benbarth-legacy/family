@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Family Games Night
 
-You can use the [editor on GitHub](https://github.com/benbarth/family/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://media.giphy.com/media/WOIGpnJ3ye445BUQl4/giphy-downsized.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Q: Hey! What am I doing here?
+A: Self-isolation is more fun together! _Seperately._
 
-### Markdown
+### Q: What's in store for this evening?
+A: A virtual games night!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Q: How are we going to play?
+A: With Zoom! I'll share the game screen, and you can play using your own devices.
 
-```markdown
-Syntax highlighted code block
+### Q: What will I need?
+A:
+  1. 💻 You'll need a computer or tablet to watch the game on. (This will be running Zoom.)
+  2. 📱 Every person will need their own phone (or tablet) to play. I'll send this link out once we've started.
+  3. Some sort of snack 🍫, probably a beverage 🍷, and your A-game 💪.
 
-# Header 1
-## Header 2
-### Header 3
+### Q: What are we going to play?
+A: Well... that's up to you. Please watch the videos below and let me know which game you'd like to play.
+  - [Drawful 2](https://www.jackboxgames.com/drawful-two/)
+  - [Quiplash](https://www.jackboxgames.com/quiplash/)
 
-- Bulleted
-- List
+[A little more detail on how to play.](https://www.jackboxgames.com/how-to-play/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benbarth/family/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://media.giphy.com/media/C9KIdIjHy2Eko/giphy-downsized.gif)
